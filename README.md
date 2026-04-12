@@ -42,9 +42,9 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 | Private Markets | Public Markets |
 |----------------|---------------|
 | Private Equity | Listed Equities |
-| Private Credit | ETFs |
+| Private Credit | Liquid Alternatives |
 | Real Assets & Infrastructure | Liquid Alternatives |
-| Fund Structuring (RAIF, ELTIF, AIFMD, Cayman) | Multi-Asset |
+| Infrastructure | Multi-Asset Strategies|
 
 ---
 
@@ -54,7 +54,7 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 `LLM Evaluation` `RLHF Annotation` `Financial Reasoning QA` `Prompt Engineering` `Machine-Readable Taxonomy Design` `AI-Assisted Scripting`
 
 **Investment Expertise**
-`Manager Research` `Due Diligence & Underwriting` `Fund Structuring` `Portfolio Construction` `DCF Modelling` `Scenario Analysis` `Operational Due Diligence`
+`Manager Research` `Due Diligence & Underwriting` `Fund Structuring` `Portfolio Construction` `DCF and Financial Modelling` `Scenario Analysis` `Operational Due Diligence`
 
 **Tools & Platforms**
 `Bloomberg` `Preqin` `eFront` `Morningstar` `Python (basics)` `AI-Augmented Workflows`
