@@ -65,9 +65,9 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 
 | Repo | Description |
 |------|-------------|
-| 📂 [llm-finance-evaluation-samples](.) | Expert critique of LLM responses to institutional finance questions |
-| 📂 [financial-reasoning-qa-pairs](.) | RLHF-ready finance Q&A training data across asset classes |
-| 📂 [ai-investment-research-workflow](.) | Prompt templates and taxonomy design from institutional AI workflows |
+| 📂 [llm-finance-evaluation-samples]([.](https://github.com/irfaan-sunthbocus/ai-investment-research-workflow) | Expert critique of LLM responses to institutional finance questions |
+| 📂 [financial-reasoning-qa-pairs]([.](https://github.com/irfaan-sunthbocus/financial-reasoning-qa-pairs) | RLHF-ready finance Q&A training data across asset classes |
+| 📂 [ai-investment-research-workflow](llm-finance-evaluation-samples) | Prompt templates and taxonomy design from institutional AI workflows |
 
 ---
 
