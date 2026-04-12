@@ -14,7 +14,7 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 - 🗣️ Native English & French
 - 📧 irfaan.sunthbocus@protonmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/irfaan-s-09705459/)
-- ✅ Available immediately for remote contract/fullt-ime engagements
+- ✅ Available immediately for remote contract/full-time engagements
 
 ---
 
