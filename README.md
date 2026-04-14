@@ -51,13 +51,13 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 ## Core Skills
 
 **AI & Evaluation**
-`LLM Evaluation` `RLHF Annotation` `Financial Reasoning QA` `Prompt Engineering` `Machine-Readable Taxonomy Design` `AI-Assisted Scripting`
+`LLM Evaluation` `RLHF Annotation` `Financial Reasoning QA` `Prompt Engineering` `Machine-Readable Taxonomy Design` `AI-Assisted Scripting` `Quantitative Monitoring`
 
 **Investment Expertise**
 `Manager Research` `Due Diligence & Underwriting` `Fund Structuring` `Portfolio Construction` `DCF and Financial Modelling` `Scenario Analysis` `Operational Due Diligence`
 
 **Tools & Platforms**
-`Bloomberg` `Preqin` `eFront` `Morningstar` `Python (basics)` `AI-Augmented Workflows`
+`Bloomberg` `Preqin` `eFront` `Morningstar` `Python (basics)` `AI-Augmented Workflows` `IBKR API` 
 
 ---
 
@@ -68,7 +68,7 @@ Deep domain coverage across the full investment spectrum — with hands-on exper
 | 📂 [llm-finance-evaluation-samples](https://github.com/irfaan-sunthbocus/llm-finance-evaluation-samples) | Expert critique of LLM responses to institutional finance questions |
 | 📂 [financial-reasoning-qa-pairs](https://github.com/irfaan-sunthbocus/financial-reasoning-qa-pairs) | RLHF-ready finance Q&A training data across asset classes |
 | 📂 [ai-investment-research-workflow](https://github.com/irfaan-sunthbocus/ai-investment-research-workflow) | Prompt templates and taxonomy design from institutional AI workflows |
-
+| 📂 [institutional-gold-monitor](https://github.com/irfaan-sunthbocus/institutional-gold-monitor) | Real-time Gold monitor integrating order flow (CVD), options skew (RR25), and Gemini 2.0 risk vetoes |
 ---
 
 ## Career Highlights
