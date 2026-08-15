@@ -18,22 +18,20 @@ AI systems builder with a product owner's instinct for outcomes — I ship the a
 
 ---
 
-## AI & LLM Evaluation Experience
+## Experience
 
 **BlackRock** *(Consultant, 2025)*
-- Architected LLM-driven validation frameworks for manager research workflows → **40% gain in team operational capacity**
-- Co-developed AI-training-ready market intelligence dashboards with Preqin, eFront and Bloomberg
-- Built structured, machine-readable taxonomies transitioning qualitative research into high-fidelity data-centric inputs
-- Accelerated fund positioning content production by **50%** using AI-synthesised research outputs
+- Rebuilt the EMEA institutional RFP/DDQ intake process: n8n + Claude API for document parsing, CRM-context enrichment, extraction, and staged analyst review before Salesforce write-back
+- Built a separate entity-resolution/de-duplication agent over the EMEA contacts table, agreeing the sign-off threshold with the ops lead
 
 **PATRIZIA SE** *(Director, 2023–2025)*
-- Deployed LLMs to summarise complex legal fund documents, term sheets, and regulatory frameworks (AIFMD, ELTIF, RAIF)
-- Integrated AI-assisted workflow automation across cross-functional investment teams
-- Used AI-assisted market intelligence for systematic peer analysis and service provider benchmarking
+- Built the team's first production LLM workflow — RFP/consultant questionnaire triage by mandate type, priority flagging, staged for analyst review
+- Owned funnel diagnostics across UK, Nordics, and DACH — isolated a material conversion drop-off at the consultant stage, redirecting the following year's coverage strategy
+- Drove rollout of new automation tooling regionally, including SOPs and training; set up a central GitHub org for the team's automation scripts
 
-**Deutsche Bank** *(Vice President, 2019–2023)*
-- From 2022, integrated LLM tools into IC preparation — synthesising manager track records and automating peer comparisons
-- Leveraged Python and AI-assisted scripting for quantitative data aggregation and scenario stress-testing
+**Deutsche Bank** *(Vice President, 2014–2023)*
+- Piloted the team's first LLM use (2022) — classifying qualitative DDQ notes into structured Salesforce fields
+- Consolidated regional Salesforce instances into a unified global pipeline; owned funnel reporting for the Executive Steering Committee
 
 ---
 
@@ -73,8 +71,8 @@ AI systems builder with a product owner's instinct for outcomes — I ship the a
 
 ## Career Highlights
 
-- 🏦 **BlackRock** — Integrated LLM reasoning into manager research; 40% efficiency gain
-- 🏢 **PATRIZIA** — Directed EUR 300m AUM raise across 3 new fund products
-- 🏛️ **Deutsche Bank** — 9 years across Manager Research, Fund Selection, and HNW Advisory
+- 🏦 **BlackRock, PATRIZIA, Deutsche Bank** — 11 years institutional finance, now fully focused on AI workflow automation
+- 🤖 **Scale AI** — current: writing eval prompts and tool-use scenarios for Claude across finance/ops workflows
+- 🌍 Funnel and adoption work spanning UK, Nordics, and DACH
 - 🎓 **UCL** — BSc Economics & Statistics (2:1)
-- 📊 **CFA** — Passed Levels 1 & 2 (above 70% in all subjects)
+- 📊 **CFA** — Levels 1 & 2
