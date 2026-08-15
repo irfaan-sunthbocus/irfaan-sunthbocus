@@ -48,14 +48,11 @@ AI systems builder with a product owner's instinct for outcomes — I ship the a
 
 ## Core Skills
 
-**AI & Evaluation**
-`LLM Evaluation` `RLHF Annotation` `Financial Reasoning QA` `Prompt Engineering` `Machine-Readable Taxonomy Design` `AI-Assisted Scripting` `Quantitative Monitoring`
+**AI & Automation** `n8n` `Anthropic Claude API` `Agentic Workflows` `Prompt Engineering` `JSON Schema Design` `REST APIs` `OAuth 2.0`
 
-**Investment Expertise**
-`Manager Research` `Due Diligence & Underwriting` `Fund Structuring` `Portfolio Construction` `DCF and Financial Modelling` `Scenario Analysis` `Operational Due Diligence`
+**GTM & RevOps** `Salesforce Architecture` `Lead Routing & Qualification` `Funnel Diagnostics` `Pipeline Reporting` `SQL`
 
-**Tools & Platforms**
-`Bloomberg` `Preqin` `eFront` `Morningstar` `Python (basics)` `AI-Augmented Workflows` `IBKR API` 
+**Delivery & Ownership** `SOP & Documentation` `Stakeholder Management` `Cross-Regional Rollout` `ROI Reporting`
 
 ---
 
