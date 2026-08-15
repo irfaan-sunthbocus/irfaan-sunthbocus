@@ -35,17 +35,6 @@ AI systems builder with a product owner's instinct for outcomes — I ship the a
 
 ---
 
-## Asset Class Coverage
-
-| Private Markets | Public Markets |
-|----------------|---------------|
-| Private Equity | Listed Equities |
-| Private Credit | Liquid Alternatives |
-| Real Assets & Infrastructure | Liquid Alternatives |
-| Infrastructure | Multi-Asset Strategies|
-
----
-
 ## Core Skills
 
 **AI & Automation** `n8n` `Anthropic Claude API` `Agentic Workflows` `Prompt Engineering` `JSON Schema Design` `REST APIs` `OAuth 2.0`
