@@ -5,9 +5,9 @@ Irfaan Sunthbocus
 
 ## About
 
-Finance SME with 11 years of institutional experience at BlackRock, Deutsche Bank, and PATRIZIA, specialising in **LLM evaluation, financial reasoning QA, and RLHF** for AI research organisations.
+AI systems builder with a product owner's instinct for outcomes — I ship the automation myself (n8n, the Claude API, Salesforce integration) and know how to direct it: setting requirements, owning what "done" means, and reporting the ROI in numbers that hold up.
 
-Deep domain coverage across the full investment spectrum — with hands-on experience integrating AI-driven analytics into institutional investment workflows and building machine-readable financial taxonomies at scale.
+11 years in institutional finance (BlackRock, Deutsche Bank, PATRIZIA) before pivoting fully into AI workflow automation for revenue operations. I don't file tickets for what I can build myself, but I also know when a system needs a decision-maker more than another engineer.
 
 - 📍 London, UK
 - 🇬🇧 British Citizen | Right to Work: UK
