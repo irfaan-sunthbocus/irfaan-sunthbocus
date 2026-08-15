@@ -49,10 +49,7 @@ AI systems builder with a product owner's instinct for outcomes — I ship the a
 
 | Repo | Description |
 |------|-------------|
-| 📂 [llm-finance-evaluation-samples](https://github.com/irfaan-sunthbocus/llm-finance-evaluation-samples) | Expert critique of LLM responses to institutional finance questions |
-| 📂 [financial-reasoning-qa-pairs](https://github.com/irfaan-sunthbocus/financial-reasoning-qa-pairs) | RLHF-ready finance Q&A training data across asset classes |
-| 📂 [ai-investment-research-workflow](https://github.com/irfaan-sunthbocus/ai-investment-research-workflow) | Prompt templates and taxonomy design from institutional AI workflows |
-| 📂 [institutional-gold-monitor](https://github.com/irfaan-sunthbocus/institutional-gold-monitor) | Real-time Gold monitor integrating order flow (CVD), options skew (RR25), and Gemini 2.0 risk vetoes |
+| 📂 [outbound-sdr-agent](https://github.com/irfaan-sunthbocus/outbound-sdr-agent) | Autonomous outbound SDR pipeline — n8n + Claude API + Salesforce. Lead enrichment, deliverability validation, AI scoring, personalised multi-touch cadence, and reply classification with human escalation. Full SOP and setup docs included. |
 ---
 
 ## Career Highlights
