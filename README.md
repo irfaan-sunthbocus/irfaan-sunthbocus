@@ -1,5 +1,5 @@
 # Irfaan Sunthbocus
-### AI Systems Builder & Product Owner | Ex-BlackRock · Deutsche Bank
+### AI Systems Builder & Product Owner | Currently @ ScaleAI | Ex-BlackRock · Deutsche Bank
 
 ---
 
