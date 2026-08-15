@@ -7,7 +7,7 @@
 
 AI systems builder with a product owner's instinct for outcomes — I ship the automation myself (n8n, the Claude API, Salesforce integration) and know how to direct it: setting requirements, owning what "done" means, and reporting the ROI in numbers that hold up.
 
-11 years in institutional finance (BlackRock, Deutsche Bank, PATRIZIA) before pivoting fully into AI workflow automation for revenue operations. I don't file tickets for what I can build myself, but I also know when a system needs a decision-maker more than another engineer.
+11 years in institutional finance (BlackRock, Deutsche Bank, PATRIZIA) before pivoting fully into AI workflow automation. I don't file tickets for what I can build myself, but I also know when a system needs a decision-maker more than another engineer.
 
 - 📍 London, UK
 - 🇬🇧 British Citizen | Right to Work: UK
