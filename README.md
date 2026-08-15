@@ -1,5 +1,5 @@
-Irfaan Sunthbocus
-### Finance Domain Expert | LLM Evaluation & RLHF | ex-BlackRock · Deutsche Bank · PATRIZIA
+# Irfaan Sunthbocus
+### AI Systems Builder & Product Owner | Ex-BlackRock · Deutsche Bank · PATRIZIA
 
 ---
 
