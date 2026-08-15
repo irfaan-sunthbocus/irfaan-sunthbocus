@@ -1,5 +1,5 @@
 # Irfaan Sunthbocus
-### AI Systems Builder & Product Owner | Ex-BlackRock · Deutsche Bank · PATRIZIA
+### AI Systems Builder & Product Owner | Ex-BlackRock · Deutsche Bank
 
 ---
 
